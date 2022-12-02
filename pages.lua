@@ -1,6 +1,7 @@
 local function BuildPageNames()
   pagenames={"Setup"}
   table.insert(pagenames,"Lights")
+  table.insert(pagenames,"Switches")
   return pagenames
 end
 

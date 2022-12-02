@@ -1,6 +1,3 @@
-### [This help you? Buy Me a Beer!](https://www.buymeacoffee.com/Pfro7Xl)
-
-
 # BasePlugin
 
 This is a template plugin that you can download with some pre-written Lua code to get you started.

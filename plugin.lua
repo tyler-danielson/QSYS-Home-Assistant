@@ -25,7 +25,7 @@ function GetPrettyName(props)
 end
 
 -- Optional function used if plugin has multiple pages
-PageNames = {"Setup","Shared Controls"}  --List the pages within the plugin
+PageNames = {"Setup"}  --List the pages within the plugin
 function GetPages(props)
   local pages = {}
   --[[ #include "pages.lua" ]]
